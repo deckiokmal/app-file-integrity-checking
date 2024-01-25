@@ -26,6 +26,10 @@ Masukkan hash: 1f3870be274f6c49b3e31a0c6728957f3585e08e
 Input filename (ex: file.txt): file.txt
 hash sha1 match, your file is secure. 1f3870be274f6c49b3e31a0c6728957f3585e08e
 ```
+
+## Referensi Python: `Working with File`
+- [working with file](https://docs.python.org/3/library/pathlib.html)
+
 ## Persyaratan:
 
 1. Python 3.x
