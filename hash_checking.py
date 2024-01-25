@@ -28,5 +28,5 @@ def hash_generator(file_path):
         )
 
 
-file_path = r"D:\file_integrity_checking\my_file.txt"
+file_path = input("Input filename (ex: file.txt): ")
 print(hash_generator(file_path))
